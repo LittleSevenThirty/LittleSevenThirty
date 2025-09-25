@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 一个矛盾的人，不讨厌学习，但学习久了又想放松，慢慢的就成了学习占比小，放松时间长的人，
 简单使用github-readme-stats
-<p align="center">![littleSevenThirty's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleSevenThirty&show_icons=true&theme=radical&locale=cn)</p>
+![littleSevenThirty's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleSevenThirty&show_icons=true&theme=radical&locale=cn)
